@@ -212,15 +212,14 @@ text-align:justify;
 }
 .Pollo{
   
-  width: 10%;
+  width: 40%;
 height: auto;
-margin-top: 50px;
+margin-top: 20px;
 padding: 5px;
-display: block;
-margin: auto;
-  border-radius:150px;
-       box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.49);
 
+margin: auto;
+ 
+  
 }
 /*
 **********Imagen de calidad****************
