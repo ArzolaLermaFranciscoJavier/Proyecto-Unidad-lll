@@ -30,7 +30,7 @@ body{
 height: 1100px;
   background-image: url("https://img.freepik.com/vector-gratis/concepto-medico-hexagonal-limpio-blanco_1017-29801.jpg");
   
-  background-size: 1343px;
+  background-size: 1800px;
  background-repeat:no-repeat;
   background-position-x:center;
   background-position-y:center;
@@ -46,11 +46,11 @@ height: 1100px;
   
 }
 [class*="col-"]{
-  float: right;
-  padding:10px;
+  float: center;
+  padding:15x;
 }
 .textprincipal{
- float: right;
+ float: center;
   padding:10px;
   
 }
@@ -120,19 +120,7 @@ li a:hover {
 /*
 ********texto de inicio: ;********
 */
-.mejor{
-  {
-background: var(--color-contenedor);
-  padding:15px;
-  text-align: justify;
-  color:white;
-  box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.49);
-  
-}
-text-align:right;
 
-
-}
 
 /*
 *******************cuerpo********************
@@ -148,7 +136,7 @@ text-align:justify;
 ***************Responsivo PC*******************
 */
 @media only screen and (min-width:
- 768px){
+ 1024px){
 .col-1{width:25%;}
 .col-2{width:50%;}
 .col-3{width:75%;}
@@ -159,7 +147,7 @@ text-align:justify;
 ********************responsivo TABLET***************************
 */
 @media only screen and (max-width:
- 769px){
+ 780px){
 .col-t-1{width:25%;}
 .col-t-2{width:50%;}
 .col-t-3{width:75%;}
@@ -196,7 +184,7 @@ margin: auto;
 }
 .Pollo1{
    
-  width: 30%;
+  width: 50%;
 height: auto;
 margin-top: 20px;
 padding: 5px;
@@ -208,23 +196,7 @@ margin: auto;
 }
 
 
-/*
-**********Imagen de calidad****************
-*/
-cont.calidad;{
-text-align:center;
 
-  
-}
-.calidad{
-text-align:center;
- width:90%;
-     height:auto;
-     margin-top: 5px;
-     margin-bottom:5px;
-     box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.49);
-
-}
 /*
 **********************PIE******************
 */
@@ -235,8 +207,8 @@ box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.49);
   margin-bottom:5px;
 }
 .logo_pie{
-width:15%;
-  height:10%;
+width:20%;
+  height:50%;
   display:block;
   margin:auto;
 }

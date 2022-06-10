@@ -30,7 +30,7 @@ body{
 height: 1100px;
   background-image: url("https://img.freepik.com/vector-gratis/concepto-medico-hexagonal-limpio-blanco_1017-29801.jpg");
   
-  background-size: 1343px;
+  background-size: 1800px;
  background-repeat:no-repeat;
   background-position-x:center;
   background-position-y:center;
@@ -46,7 +46,7 @@ height: 1100px;
   
 }
 [class*="col-"]{
-  float: right;
+  float: center;
   padding:10px;
 }
 .textprincipal{
@@ -187,24 +187,7 @@ text-align:justify;
     float:none;
   }
 }
-.Anuncio{
-  
-     width:100%;
-     height:auto;
-     margin-top: 5px;
-     margin-bottom:5px;
-     box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.49);
-   
-}
-.Anuncio1{
-  
-     width:100%;
-     height:auto;
-     margin-top: 5px;
-     margin-bottom:5px;
-     box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.49);
-   
-}
+
 /*******************Imagenes del menu*********************/
 
 .contenedor-imagene {
@@ -221,23 +204,8 @@ margin: auto;
  
   
 }
-/*
-**********Imagen de calidad****************
-*/
-cont.calidad;{
-text-align:center;
 
-  
-}
-.calidad{
-text-align:center;
- width:90%;
-     height:auto;
-     margin-top: 5px;
-     margin-bottom:5px;
-     box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.49);
-  
-}
+
 /*
 **********************PIE******************
 */

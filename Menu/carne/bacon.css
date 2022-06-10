@@ -46,7 +46,7 @@ height: 1100px;
   
 }
 [class*="col-"]{
-  float: right;
+  float: center;
   padding:10px;
 }
 .textprincipal{

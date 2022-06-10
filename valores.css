@@ -46,8 +46,8 @@ height: 1100px;
   
 }
 [class*="col-"]{
-  float: right;
-  padding:10px;
+  float: center;
+  padding:15px;
 }
 .textprincipal{
  float: right;
@@ -117,22 +117,7 @@ li a:hover {
      margin-bottom:5px;
      box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.49);
    }
-/*
-********texto de inicio: ;********
-*/
-.mejor{
-  {
-background: var(--color-contenedor);
-  padding:15px;
-  text-align: justify;
-  color:white;
-  box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.49);
-  
-}
-text-align:right;
 
-
-}
 
 /*
 *******************cuerpo********************
@@ -159,7 +144,7 @@ text-align:justify;
 ********************responsivo TABLET***************************
 */
 @media only screen and (max-width:
- 769px){
+ 780px){
 .col-t-1{width:25%;}
 .col-t-2{width:50%;}
 .col-t-3{width:75%;}
@@ -195,35 +180,8 @@ margin: auto;
        box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.49);
 
 }
-.Pollo2{
-  
-  width: 30%;
-height: auto;
-margin-top: 50px;
-padding: 5px;
-display: block;
 
- 
-       box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.49);
 
-}
-/*
-**********Imagen de calidad****************
-*/
-cont.calidad;{
-text-align:center;
-
-  
-}
-.calidad{
-text-align:center;
- width:90%;
-     height:auto;
-     margin-top: 5px;
-     margin-bottom:5px;
-     box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.49);
-
-}
 /*
 **********************PIE******************
 */

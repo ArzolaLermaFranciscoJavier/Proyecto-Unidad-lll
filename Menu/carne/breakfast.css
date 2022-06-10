@@ -30,7 +30,7 @@ body{
 height: 1100px;
   background-image: url("https://img.freepik.com/vector-gratis/concepto-medico-hexagonal-limpio-blanco_1017-29801.jpg");
   
-  background-size: 1343px;
+  background-size: 1800px;
  background-repeat:no-repeat;
   background-position-x:center;
   background-position-y:center;
@@ -46,7 +46,7 @@ height: 1100px;
   
 }
 [class*="col-"]{
-  float: right;
+  float: center;
   padding:10px;
 }
 .textprincipal{
@@ -160,23 +160,6 @@ text-align:justify;
   li{
     float:none;
   }
-}
-
-/*******************Imagenes del menu*********************/
-
-.contenedor-imagene {
-  display:  flex ;
-}
-.Pollo{
-  
-  width: 40%;
-height: auto;
-margin-top: 20px;
-padding: 5px;
-
-margin: auto;
- 
-  
 }
 
 /*

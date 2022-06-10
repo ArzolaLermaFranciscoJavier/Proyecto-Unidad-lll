@@ -162,22 +162,6 @@ text-align:justify;
   }
 }
 
-/*******************Imagenes del menu*********************/
-
-.contenedor-imagene {
-  display:  flex ;
-}
-.Pollo{
-  
-  width: 40%;
-height: auto;
-margin-top: 20px;
-padding: 5px;
-
-margin: auto;
- 
-  
-}
 
 /*
 **********************PIE******************
